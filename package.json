@@ -21,6 +21,7 @@
     "dependencies": {
         "@babel/plugin-proposal-class-properties": "^7.12.1",
         "@babel/plugin-transform-runtime": "^7.12.1",
+        "react-animated-css": "^1.2.1",
         "react-router-dom": "^5.2.0"
     }
 }
